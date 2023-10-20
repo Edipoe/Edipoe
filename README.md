@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm [Your Name], a passionate beginner in the world of technology and software development. This is my GitHub profile where I'm starting my journey in open source and coding.
+I'm Edi, a passionate beginner in the world of technology and software development. This is my GitHub profile where I'm starting my journey in open source and coding.
 
 ## About Me
 
